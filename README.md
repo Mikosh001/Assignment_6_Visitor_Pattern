@@ -42,4 +42,4 @@ The second commit adds statistics without changing `Element`, `Visitor`, `Node`,
 
 See [report.pdf](report.pdf) and the PlantUML files in `uml/`.
 
-Reference: [Refactoring.Guru - Visitor](https://refactoring.guru/design-patterns/visitor). OpenAI Codex assisted with implementation, documentation and verification.
+Reference: [Refactoring.Guru - Visitor](https://refactoring.guru/design-patterns/visitor). 
